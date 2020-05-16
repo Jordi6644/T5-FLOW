@@ -1,0 +1,57 @@
+@charset "utf-8";
+.uno{}
+.logo{
+    margin:10px;
+    background-color: grey;
+    height: 60px;
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+    }
+.header{
+    
+    height: 60px;
+    margin:5px;
+    background-color: grey;
+    width: 62%;
+    margin-right: 2%;
+    float: right
+    }
+.intro{
+    
+    height: 450px;
+    margin:5px;
+    background-color: grey;
+    width: 31%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 3%;
+    float: left;
+    }
+
+
+.dos{}
+
+
+.boxtres{
+    height: 380px;
+    float: right;
+    background-color: grey;
+    width: 62%;
+    margin-top: 5px;
+    margin-right: 2%;
+    
+    }
+
+
+.footer{
+    
+    
+    margin-top: 10%;
+    background-color: grey;
+    width: 96%;
+    height: 40px;
+    margin-left: 2%;
+    margin-right: 2%; 
+    clear: both
+}

@@ -1,0 +1,58 @@
+@charset "utf-8";
+.encabezado{
+    
+}
+.uno{
+    margin: 5px;
+    background-color: grey;
+    height: 30px;
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.tres{
+    clear:both;
+    margin: 5px;
+    background-color: grey;
+    height: 80px;
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+
+.espacio{
+    
+}
+     
+.1contenedor{
+    
+    
+}
+    .dos{
+    background-color:grey;
+    width: 28.66%;
+    height: 300px;
+    float: left;
+    margin-left: 2%;
+    
+    margin-bottom: 20px;
+    
+}
+.cuatro{
+    background-color:grey;
+    width: 65%;
+    height: 300px;
+    float: right;
+    
+    margin-right: 2%;
+    margin-bottom: 20px;
+    
+}
+.footer{
+    clear: both;
+    background-color: grey;
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+    }
